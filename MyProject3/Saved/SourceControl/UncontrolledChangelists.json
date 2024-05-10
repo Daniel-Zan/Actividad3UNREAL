@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject3/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject3/Content/Characters/MyAICharacter.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject3/Content/Characters/Blueprints/MyAICharacter.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject3/Content/Characters/Blueprints/MyAIController.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject3/Content/Characters/Blueprints/BT_MyBehaviorTree.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject3/Content/Characters/Blueprints/BT_MyBlackboard.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/46/IU8JABVAYGXGSZMT3M3ZB1.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject3/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/S2/UGBBMDECYMMAC5PP0HC0K2.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject3/Content/Characters/Blueprints/BT_TargetSearch.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject3/Content/Characters/Blueprints/BT_MoveToActor.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject3/Content/Characters/Blueprints/CheckTargetDistance.uasset"
+			]
+		}
+	]
+}
